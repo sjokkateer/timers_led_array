@@ -1,2 +1,2 @@
-# timers_led_array
+# Led Array
 ![circuit diagram](./diagram.png)
